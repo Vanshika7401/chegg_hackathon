@@ -14,7 +14,7 @@ During the course of the pandemic, E-learning has proven to be an efficient an e
 ## 🔴 Live demo
 
 The site is deployed throught Vercel, and you can access it [here](https://edu-smart.vercel.app/)  
-Check out the presentation for more details [here](https://www.canva.com/design/DAEpFl8JPvs/4wUFIgirVNxxOuMvdLS7MQ/view?utm_content=DAEpFl8JPvs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 
 ## 📺 Demo video:
 
