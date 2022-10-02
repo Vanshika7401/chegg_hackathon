@@ -1,8 +1,6 @@
 # 🎓 EduSmart
 <a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> <a href="https://github.com/gauravsinhaweb/EduSmart/blob/master/LICENSE"> <img alt="GitHub License MIT" src="https://img.shields.io/github/license/gauravsinhaweb/EduSmart?style=for-the-badge&labelColor=black&logo=github"> </a>
-## 🤗 Contributing
 
-Check out the [Contribution Guide](CONTRIBUTING.md) for local setup and contribution information.
 
 ## 🏷 Tagline:
 Lets Make it Real   
@@ -56,10 +54,4 @@ Check out the complete demo video [here](https://youtu.be/WpuTS0YcoEQ)
 
 ![Screenshot 2021-10-09 115000](https://user-images.githubusercontent.com/75125943/136646853-019d8f87-f7e1-44db-9b6b-27f9775f8a64.png)
 
-## Contributors:
 
-<a href="https://github.com/gauravsinhaweb/EduSmart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gauravsinhaweb/EduSmart" />
-</a>
-
-#### `#happy hacking!`
